@@ -45,8 +45,8 @@
 - [贡献者](#contribute)
 - [协议](#license)
 
-# Media
-## Magazines and Blogs
+# 媒体资讯相关
+## 杂志&个人网站
 * [CryptoHackers](https://cryptohackers.party/) - Cryptoworld超级英雄采访。迷人的事实，团队内部和成功的故事。
 * [CoinTelegraph](https://cointelegraph.com/) - 提供最新消息，分析，专家意见，社区评论的主要刊物。成立于2013年。
 * [CoinDesk](https://www.coindesk.com/) - CoinDesk是全球数字货币新闻和信息的领导者。 17M用户。
@@ -97,7 +97,7 @@
 * [CoinDar](https://coindar.org/) - 第一个知道即将到来的加密货币新闻，更新，硬分叉，合并，在交易所上市的货币和其他重要事件。
 * [BTCnews](https://itunes.apple.com/app/btcnews-bitcoin-cryptocurrency/id946903421) - 适用于 iOS 的成熟加密货币新闻和图表应用程序。
 
-# 格追踪
+# 行情（价格追踪）
 * [Altcoins Racing](https://altcoins.racing/) - Altcoins Racing 显示价格变化。
 * [CoinMarketcap](https://coinmarketcap.com/) - 老而弥酷。汇集所有的硬币价格，图表，市场上限。 提供API，小部件，工具。每月 90M 用户使用。
 * [Coincap](http://coincap.io/) - CoinCap 实时跟踪数百种加密货币的市场数据。他们也有非常有用的移动应用程序。
@@ -122,7 +122,7 @@
 * [TokenMarket](https://tokenmarket.net) - TokenMarket是代币，数字资产和区块链投资的市场。
 * [ICOdrops](https://icodrops.com/) - 不断更新看板样式的ICO板。
 * [ICO Whitelists](http://icowhitelists.com) - 关于ICO的文章。还跟踪ICO的200多个电报小组的增长情况。
-交易所
+
 # 交易所
 * [Local Bitcoins](https://localbitcoins.com/) - 在您附近买卖比特币。受每月10M用户的信任。
 * [Poloniex](https://www.poloniex.com/) - USA. Trust: 3.5/5. Tons of altcoins. 客服差。
@@ -136,9 +136,9 @@
 * [Cryptoradar](https://cryptoradar.co) - 比较来自超过 25 个交易所和经纪商的价格和特点。
 * [Binance](https://www.binance.com) - 现代交易所与最低的交易手续费用，有自己的代币。
 * [Kucoin](https://www.kucoin.com) - 现代。进化非常快。有它自己的代币。
-社区
+
 # 社区
-## 聊天组
+## 聊天群
 * [The Moon Trollbox](https://t.me/join_trollbox) - 热点新闻讨论，谣言和友好会谈。没有审查制度。
 * [The CHT Community](https://t.me/join_cht) - 正式CryptoHackers telegram 聊天。与您最喜爱的加密创业公司和应用程序的创始人交谈的地方。
 * [Crypto Aquarium](https://cryptoaquarium.com) - 伟大的社区（telegram， slack）。由Coindex创始人Joshua Petty策划。 800多个成员。
@@ -188,7 +188,7 @@
 * [Samourai](https://samouraiwallet.com/) - 适用于Android的安全比特币钱包。
 * [WalletList](https://walletlist.me) - 展示您的公共数字货币地址。addresses.
 
-# Altfolio
+# 交易组合工具
 * [Blockfolio](https://www.blockfolio.com/) - 加密货币管理，使用易于使用的工具来跟踪所有的加密货币投资。漂亮的小部件。简单。安卓/ iOS版。
 * [ACrypto](https://dworks.in/acrypto) - 跟踪比特币和altcoins价格，自定义警报，详细的图表。灵活，许多设置，信息。适用于iOS和Android。
 * [Altpocket](http://www.altpocket.io) - 您展示，跟踪和分享您的加密货币投资所需的唯一工具。
@@ -200,7 +200,7 @@
 * [Crypto Central](https://cryptocentral.ai) - 适用于iOS / Android的Bitcoin＆加密货币投资组合追踪器。
 * [Cryptagon](https://cryptagon.io) - 强大的应用程序来跟踪投资组合。从交易所自动导入。
 * [Cryptonomy](https://www.cryptonomynow.com/) - 投资组合跟踪，社交，论坛，聊天，ico列表，新闻聚合器，加密学院。安卓/ iOS版。
-# 实用工具
+# 交易辅助工具
 * [QR Code Generator](https://bitcoinqrcodegenerator.win/) - 有了这个免费的工具，您可以立即生成您的比特币/莱特币/以太坊/狗币地址的QR码。
 * [Block Explorer](https://tradeblock.com/bitcoin/) - 在线发现比特币区块链块。包括费用和矿工信息。
 * [EtherScan](https://etherscan.io) - 以太坊的块浏览器和分析平台。
@@ -266,7 +266,7 @@
 * [Microsoft BaaS](https://azure.microsoft.com/en-in/solutions/blockchain/) - 微软Azure区块链服务（BaaS）。
 * [CoinMarketCap](https://coinmarketcap.com/api/) - 强大的JSON API涵盖1000多个币种。限制：每6秒发1个请求。
 * [CoinCap](https://github.com/CoinCapDev/CoinCap.io) - 简单而翔实。很多山寨币信息。历史数据。无限。
-## Other
+## 其他
 * [Bitpay](https://bitpay.com/) -  使用BitPay的零售，电子商务，结算和捐赠工具来接受付款。
 * [Gekko](https://github.com/askmike/gekko) - 免费和开源的交易机器人。 有 GUI，CLI，基于 NodeJS，有漂亮的文档。 支持 18 个交易所（包括Bitfinex，Bitstamp和Poloniex）。
 * [Zenbot](https://github.com/carlos8f/zenbot) - 免费和开源的交易机器人。 基于 CLI，NodeJS。 支持 GDAX，Poloniex，Kraken，Bittrex，Quadriga，Gemini.
