@@ -109,7 +109,7 @@
 * [WorldCoinIndex](https://www.worldcoinindex.com/) - 实时加密货币价格监控工具。许多altcoins和许多法定货币。
 * [CryptoTrader](https://cryptrader.com/) - Cryptocurrency交易平台。图表，新闻和trollbox。添加小部件以自定义外观。
 * [Coin Daily Update](https://coindailyupdate.com) - 每日电子邮件更新与定制硬币的价格变化。
-# ICO Trackers
+# 发各种币的（ICO）
 * [ICOtracker](https://icotracker.net) - 非常翔实和值得信赖的跟踪器。
 * [The ICO digest](https://theicodigest.com) - 每周ICO摘要。
 * [TokenData](https://www.tokendata.io/) - 查看ICO统计数据：投资回报率，总投资，状态和其他信息。
