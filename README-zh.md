@@ -229,7 +229,7 @@
 * [Bitcoin Playlist](https://www.youtube.com/playlist?list=PL05dEp7goGNiKWYdiE4nurEPFMmF9XpzF) - 55 个比特币谈话的节目列表
 * [BiteSizeBitcoin](https://www.youtube.com/channel/UCnePINazJJpbn9FWaq_skQA/featured) - 伟大的初学者指南。交易和投资建议，播客和聚会。
 
-## 影视
+## 视频
 * [Ulterior States](http://www.iamsatoshi.com/) - 与比特币生态系统中的一些思想领袖进行真实的对话。这部电影花了3年才完成。
 * [The Bitcoin Doco](https://vimeo.com/112223859) - 新世界货币涌现的令人着迷的故事。
 * [秘密的中国比特币矿场里的生活](https://www.youtube.com/watch?v=K8kua5B5K3I) - 关于新千年矿工的有趣故事。
